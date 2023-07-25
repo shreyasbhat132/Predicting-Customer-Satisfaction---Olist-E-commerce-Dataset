@@ -12,8 +12,7 @@ The goal of this project is to utilize the sales data along with the customer fe
 
 This dataset was generously provided by Olist, which was made publicly accessible on kaggle.com. The dataset has information of 100,000 orders from 2016 to 2018 made at multiple marketplaces in Brazil. Its features allow you to evaluate an order from a variety of perspectives, including order status, pricing, payment, and freight performance, as well as customer location, product qualities, and customer feedback.
 
-Source: Olist, &amp; André Sionek. (2018). Brazilian E-Commerce Public Dataset by Olist. \n
-Kaggle. https://doi.org/10.34740/KAGGLE/DSV/195341
+Source: Olist, &amp; André Sionek. (2018). Brazilian E-Commerce Public Dataset by Olist, [Kaggle](https://doi.org/10.34740/KAGGLE/DSV/195341)
 License: CC BY-NC-SA 4.0
 
 ## WHAT YOU WILL FIND
