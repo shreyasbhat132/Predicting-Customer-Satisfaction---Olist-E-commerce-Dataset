@@ -10,8 +10,7 @@ the models have been evaluated on the following parameters:
 5. AIC Score - The Akaike information criterion is a predictor of prediction error and thus relative model quality for a given set of data.
 6. Matthews Correlation Coefficient - MCC is a quality indicator for binary classifications.
 
-
-<img width="500" alt="Screenshot 2023-07-24 at 8 33 47 PM" src="https://github.com/shreyasbhat132/Predicting-Customer-Satisfaction---Olist-E-commerce-Dataset/assets/125607571/d9d16508-437e-47bf-a406-d50982f9135a">
+<img width="860" alt="Screenshot 2023-08-28 at 11 24 42 AM" src="https://github.com/shreyasbhat132/Predicting-Customer-Satisfaction---Olist-E-commerce-Dataset/assets/125607571/a584c698-7e2b-4a17-99e2-4f67a3e5d3ae">
 
 ## RESULTS
 
